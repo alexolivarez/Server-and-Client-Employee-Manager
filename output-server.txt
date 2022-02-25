@@ -1,0 +1,4 @@
+ejl483@fox03:~/courses/cs3733/final$ make
+# gcc -g client.c -o client -lsocket -lnsl
+gcc -g client.c -o client  -lnsl
+ejl483@fox03:~/courses/cs3733/final$ server 1337

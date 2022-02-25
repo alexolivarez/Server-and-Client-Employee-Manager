@@ -1,0 +1,31 @@
+ejl483@fox03:~/courses/cs3733/final$ client fox03 1337
+...waiting for ctrl+c
+^C
+  Ctrl-C is pressed…
+1. Get SALARY for an employee
+2. Stop
+1
+Enter ID(abc123):
+ejl483
+Hello Alex O! Salary: 25000.000000
+ejl483@fox03:~/courses/cs3733/final$ client fox03 1337
+...waiting for ctrl+c
+^C
+  Ctrl-C is pressed…
+1. Get SALARY for an employee
+2. Stop
+1
+Enter ID(abc123):
+abc123
+Hello Turgay! Salary: 100000.000000
+ejl483@fox03:~/courses/cs3733/final$ client fox03 1337
+...waiting for ctrl+c
+^C
+  Ctrl-C is pressed…
+1. Get SALARY for an employee
+2. Stop
+1
+Enter ID(abc123):
+gyr286
+Hello Maggie D! Salary: 100000000.000000
+ejl483@fox03:~/courses/cs3733/final$
